@@ -40,3 +40,4 @@ To be successful in their role, Data Engineers need a mix of technical, function
 ![intersection](images/intersection.png)
 ![pipelines](images/pipelines.png)
 ![processing_tools](images/processing_tools.png)
+![tech skills](images/tech_skills.png)
