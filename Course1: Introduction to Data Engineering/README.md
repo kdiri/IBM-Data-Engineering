@@ -4,7 +4,9 @@
    * [Responsibilities and Skillsets of a Data Engineer](#responsibilities-and-skillsets-of-a-data-engineer)
    * [The Data Ecosystem and Languages for Data Professionals](#the-data-ecosystem-and-languages-for-data-professionals)
    * [Data Repositories, Data Pipelines](#data-repositories-data-pipelines)
+   * [The data ecosystem languages](#the-data-ecosystem-languages)
    * [Screenshots](#screenshots)
+
 
 ## Modern Data Ecosystem and role of Data Engineering
 
@@ -92,6 +94,16 @@ Data Pipeline, sometimes used interchangeably with ETL and ELT, encompasses the 
 
 Data Integration Platforms combine disparate sources of data, physically or logically, to provide a unified view of the data for analytics purposes.
 
+
+## The data ecosystem languages
+
+In this lesson, you have learned:
+
+Big Data refers to the vast amounts of data that is being produced each moment of every day, by people, tools, and machines. The sheer velocity, volume, and variety of data challenged the tools and systems used for conventional data, leading to the emergence of processing tools and platforms designed specifically for Big Data. Big Data processing technologies help derive value from big data. These include NoSQL databases and Data Lakes and open-source technologies such as Apache Hadoop, Apache Hive, and Apache Spark.
+
+- Hadoop provides distributed storage and processing of large datasets across clusters of computers. One of its main components, the Hadoop File Distribution System, or HDFS, is a storage system for big data.
+- Hive is a data warehouse software for reading, writing, and managing large datasets.
+- Spark is a general-purpose data processing engine designed to extract and process large volumes of data. 
 
 ## Screenshots
 
