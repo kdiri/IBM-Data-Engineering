@@ -113,3 +113,5 @@ Big Data refers to the vast amounts of data that is being produced each moment o
 ![pipelines](images/pipelines.png)
 ![processing_tools](images/processing_tools.png)
 ![tech skills](images/tech_skills.png)
+![4VofData](images/4VofData.png)
+![Data Archi](images/Data_Archi.png)
