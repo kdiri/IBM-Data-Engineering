@@ -12,9 +12,9 @@
    * [Overview of the DataOps Methodology](#overview-of-the-dataops-methodology)
       * [DataOps Methodology:](#dataops-methodology)
       * [Benefits of using the DataOps methodology:](#benefits-of-using-the-dataops-methodology)
+   * [Career Opportunities](#career-opportunities)
    * [Screenshots](#screenshots)
-
-
+   
 
 
 ## Modern Data Ecosystem and role of Data Engineering
@@ -221,6 +221,28 @@ With DataOps, data professionals, consumers, and stakeholders can collaborate mo
 
 Interestingly, it also opens up additional career opportunities for you as a data engineer. **DataOps Engineers** are technical professionals that focus on the development and deployment lifecycle rather than the product itself. And as you grow in experience, you can move into more specialist roles within DataOps, contributing to defining the data strategy, developing and deploying business processes, establishing performance metrics, and measuring performance.
 
+## Career Opportunities
+
+In this lesson, you have learned:
+
+Data Engineering is reported to be one of the top ten jobs experiencing tremendous growth in the U.S. today. It is also reported to be one of the fastest growing tech occupations with year-over-year growth of around 50%. 
+
+Currently, the demand for skilled data engineers far outweighs the supply, which means companies are willing to pay a premium to hire skilled data engineers.
+
+Data engineering roles in organizations tend to break the specialization up into Data Architecture, Database Design and Architecture, Data Platforms, Data Pipelines and ETL, Data Warehouses, and Big Data.
+
+Regardless of the niche you choose to specialize in, knowledge of operating systems, languages, databases, and infrastructure components, is essential. 
+
+To work your way up from a Junior Data Engineer to a Lead or Principal Data Engineer, you need to continually advance your technical, functional, and soft skills from a foundational level to an expert level. You need to not only expand your skills in your niche area, but also into other areas of data engineering at the same time.
+
+Big Data Engineers and Machine Learning Engineers are some of the emerging roles in this field and they require specialized skills in addition to basic data engineering.
+
+There are several paths you can consider in order to gain entry into the data engineering field. 
+
+- An academic degree in Computer Science or engineering qualifies you for an entry-level job.
+- If you are not a graduate, or a graduate in a non-relate stream, you can earn professional certifications from online multi-course specializations offered by learning platforms such as Coursera, edX, and Udacity.
+- If you have a coding background, or you are an IT Support Specialist, a Software Tester, a Programmer, or a data professional such as a Statistician, Data Analyst, or BI Analyst, you can upskill with the help of online courses to become a Data Engineer. 
+
 ## Screenshots
 
 ![func_skill_1](images/func_skill_1.png)
@@ -235,3 +257,4 @@ Interestingly, it also opens up additional career opportunities for you as a dat
 ![Perf Tuning](images/perf_metrics.png)
 ![Gouvernance](images/gouvernance.png)
 ![Gouvernance FWK](images/gouvernance_fwk.png)
+![Data Engineering Fields](images/data_engineering_fields.png)
