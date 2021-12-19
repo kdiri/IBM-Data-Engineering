@@ -7,7 +7,10 @@
    * [The data ecosystem languages](#the-data-ecosystem-languages)
    * [Data Platforms, Data Stores and Data Security](#data-platforms-data-stores-and-data-security)
    * [Data Collection and Wrangling](#data-collection-and-wrangling)
+   * [Querying Data, Performance Tuning, Troubleshooting](#querying-data-performance-tuning-troubleshooting)
+   * [Gouvernance and Compliance](#gouvernance-and-compliance)
    * [Screenshots](#screenshots)
+
 
 
 
@@ -154,6 +157,30 @@ In this lesson, you have learned,
 - Monitoring and alerting systems collect quantitative data in real time to give visibility into the performance of data pipelines, platforms, databases, applications, tools, queries, scheduled jobs, and more.
 - Time-based and condition-based maintenance schedules generate data that helps identify systems and procedures responsible for faults and low availability.
 
+
+## Gouvernance and Compliance
+
+In this lesson, you have learned:
+
+Data Governance is a collection of principles, practices, and processes that help maintain the security, privacy, and integrity of data through its lifecycle.
+
+Personal Information and Sensitive Personal Information, that is, data that can be traced back to an individual or can be used to identify or cause harm to an individual, needs to be protected through governance regulations. 
+
+General Data Protection Regulation, or GDPR, is one such regulation that protects the personal data and privacy of EU citizens for transactions that occur within EU member states.  Regulations, such as HIPAA (Health Insurance Portability and Accountability Act) for Healthcare, PCI DSS (Payment Card Industry Data Security Standard) for retail, and SOX (Sarbanes Oxley) for financial data are some of the industry-specific regulations. 
+
+Compliance covers the processes and procedures through which an organization adheres to regulations and conducts its operations in a legal and ethical manner.
+
+Compliance requires organizations to maintain an auditable trail of personal data through its lifecycle, which includes acquisition, processing, storage, sharing, retention, and disposal of data.
+
+Tools and technologies play a critical role in the implementation of a governance framework, offering features such as:
+
+- Authentication and Access Control.
+- Encryption and Data Masking.
+- Hosting options that comply with requirements and restrictions for international data transfers.
+- Monitoring and Alerting functionalities.
+- Data erasure tools that ensure deleted data cannot be retrieved.
+
+
 ## Screenshots
 
 ![func_skill_1](images/func_skill_1.png)
@@ -166,3 +193,5 @@ In this lesson, you have learned,
 ![Data Archi](images/Data_Archi.png)
 ![No SQL](images/NoSQLTypes.png)
 ![Perf Tuning](images/perf_metrics.png)
+![Gouvernance](images/gouvernance.png)
+![Gouvernance FWK](images/gouvernance_fwk.png)
