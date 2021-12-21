@@ -23,3 +23,6 @@ If you are looking to start a career in Data Science, Data Engineering or AI & A
 We encourage you to leave your feedback and rate this course.
 
 Good luck!
+
+
+[Python Cheat sheet by IBM](Python%20Cheat%20Sheet%20-%20The%20Basics%20Coursera.pdf)
