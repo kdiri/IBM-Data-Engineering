@@ -1,5 +1,7 @@
 # Introduction to Relational Databases (RDBMS)
 
+   * [Course Introduction](#course-introduction)
+   * [Fundamental Relational Database Concepts: Summary &amp; Highlights](#fundamental-relational-database-concepts-summary--highlights)
 
 ## Course Introduction
 
@@ -19,3 +21,19 @@ With a solid plan, you will then learn how to use SQL statements and several Rel
 You will build hands-on experience by developing an Entity Relationship Diagram to map out the data model of a relational database, applying techniques that help improve the integrity of your data and the performance of your queries, and then implement the design in IBM Db2 on Cloud.
 
 Watch the videos, work through the labs, and add to your portfolio. Good luck!
+
+
+## Fundamental Relational Database Concepts: Summary & Highlights
+
+Congratulations! You have completed this lesson. At this point in the course, you know: 
+
+- The relational model is the most used data model for databases because this model allows for logical data independence, physical data independence, and physical storage independence. 
+- Entities are objects that exist independently of any other entities in the database, while attributes are the data elements that characterize the entity.
+- The building blocks of a relationship are entities, relationship sets, and crows foot notations. 
+- Relationships can be one-to-one, one-to-many, or many-to-many.
+- When translating an Entity-Relationship Diagram to a relational database table, the entity becomes the table and the attributes become columns in the table.
+- Data types define the type of data that can be stored in a column and can include character strings, numeric values, dates/times, Boolean values and more.
+- The advantages of using the correct data type for a column are data integrity, data sorting, range selection, data calculations, and the of standard functions.
+- In a relational model, a relation is made up of two parts: A *relation schema* specifying the name of a relation and the attributes and a *relation instance*, which is a table made up of the attributes, or columns, and the tuples, or rows. 
+- Degree refers to the number of attributes, or columns, in a relation. 
+- Cardinality refers to the number of tuples, or rows in a relation.
