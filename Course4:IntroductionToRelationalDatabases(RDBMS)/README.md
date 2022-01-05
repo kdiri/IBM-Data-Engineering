@@ -4,6 +4,8 @@
    * [Fundamental Relational Database Concepts: Summary &amp; Highlights](#fundamental-relational-database-concepts-summary--highlights)
    * [Introducing Relational Database Products](#introducing-relational-database-products)
    * [Creating Tables and Loading Data](#creating-tables-and-loading-data)
+   * [Image Notes](#image-notes)
+
 
 ## Course Introduction
 
@@ -92,3 +94,6 @@ There are utilities that help you to manage the movement of data:
 - You can use the LOAD utilities, instead of INSERT statements, to quickly insert large amounts of data a variety of different data sources into tables.
 - The Load Data utility is a simple to use interface in the Db2 Web Console.
 
+
+## Image Notes
+![db_objects](images/db_objects_and_hierarchy.png)
