@@ -97,3 +97,10 @@ There are utilities that help you to manage the movement of data:
 
 ## Image Notes
 ![db_objects](images/db_objects_and_hierarchy.png)
+![db_objects1](images/Normalization_of_DB.png)
+![db_objects1](images/domain_constraint.png)
+![db_objects2](images/entity_integrity_constraint.png)
+![db_objects3](images/null_constraint.png)
+![db_objects4](images/referentiel_integrity_constraint.png)
+![db_objects5](images/semantic_integrity_constraint.png)
+![db_objects6](images/relational_model_constraints.png)
