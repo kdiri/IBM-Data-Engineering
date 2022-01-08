@@ -5,7 +5,9 @@
    * [Introducing Relational Database Products](#introducing-relational-database-products)
    * [Creating Tables and Loading Data](#creating-tables-and-loading-data)
    * [Designing Keys, Indexes, and Constraints](#designing-keys-indexes-and-constraints)
+   * [MySQL](#mysql)
    * [Image Notes](#image-notes)
+
 
 
 ## Course Introduction
@@ -128,6 +130,31 @@ You can define six relational model constraints:
 - **Check constraint.** Limits the values that are accepted by an attribute.
 
 
+## MySQL
+Congratulations! You have completed this lesson. At this point in the course, you know: 
+
+MySQL is a free, open-source RDMS that you can download and install on your own systems or access on the Cloud. You can either self-manage a Cloud instance of MySQL or use a managed services provider, including IBM Cloud, Amazon RDS for MySQL, Azure Database for MySQL, or Google Cloud SQL for MySQL.
+
+MySQL includes several options for creating databases and tables, loading and querying data, and importing and exporting data relational databases:
+
+- mysql and mysqladmin command line interfaces. You use these CLIs to run SQL statements.
+- MySQL Workbench. A desktop application for designing, developing, and administering MySQL databases.
+- phpMyAdmin. An easy to use, third-party web interface for working with MySQL databases.
+- API calls.
+
+Using phpMyAdmin, you can:
+
+- Add and modify columns after you create a table.
+- Use backup and restore functionality to populate databases.
+- Use import and export functionality to populate tables and save their data to files.
+- Create primary keys by defining a primary index on one or more columns.
+- Use autoincrement to automatically generate sequential numeric data in a column.
+
+When creating foreign keys, you can define ON DELETE and ON UPDATE actions.
+
+MySQL columns are NOT NULL by default.
+
+You can configure a column to only accept unique values.
 
 ## Image Notes
 ![db_objects](images/db_objects_and_hierarchy.png)
