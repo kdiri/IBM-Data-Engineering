@@ -194,3 +194,5 @@ Using views:
 ![db_objects4](images/referentiel_integrity_constraint.png)
 ![db_objects5](images/semantic_integrity_constraint.png)
 ![db_objects6](images/relational_model_constraints.png)
+![db_objects7](images/hr_erd.png)
+![db_objects8](images/hr_complete_erd.png)
