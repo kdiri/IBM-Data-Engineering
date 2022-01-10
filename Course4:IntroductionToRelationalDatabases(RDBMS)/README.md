@@ -196,3 +196,25 @@ Using views:
 ![db_objects6](images/relational_model_constraints.png)
 ![db_objects7](images/hr_erd.png)
 ![db_objects8](images/hr_complete_erd.png)
+
+
+
+## Course Team & Acknowledgements
+
+This course has been brought to you through the involvement of the following team of contributors:
+
+### **Primary Instructors**
+
+Rav Ahuja Lin Joyner Rose Malcolm
+
+### **Other Contributors and Staff**
+
+Project Lead: Rav Ahuja	 Instructional Designers: Rose Malcolm, Lin Joyner Lab Authors: Sandip Saha Joy, Lin Joyner
+
+### **Production Team**
+
+Publishing: Eboney Hinds, Grace Barker QA: Pradnya Bhagwat Project Manager: Alison Woolford Narration: Bella West Video Production: Rajeev Kumar
+
+### **Teaching Assistants and Forum Moderators**
+
+Teaching Assistants: Malika Singla, Himanshu Birla, Lakshmi Holla
