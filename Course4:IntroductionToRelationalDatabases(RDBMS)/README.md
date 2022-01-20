@@ -8,6 +8,11 @@
    * [MySQL](#mysql)
    * [PostgreSQL](#postgresql)
    * [Image Notes](#image-notes)
+   * [Course Team &amp; Acknowledgements](#course-team--acknowledgements)
+      * [<strong>Primary Instructors</strong>](#primary-instructors)
+      * [<strong>Other Contributors and Staff</strong>](#other-contributors-and-staff)
+      * [<strong>Production Team</strong>](#production-team)
+      * [<strong>Teaching Assistants and Forum Moderators</strong>](#teaching-assistants-and-forum-moderators)
 
 
 
