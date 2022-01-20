@@ -20,3 +20,7 @@ Congratulations! You have completed this lesson. At this point in the course, yo
 - The Relational Model is the most used data model for databases because it allows for data independence. 
 - The primary key of a relational table uniquely identifies each tuple or row, preventing duplication of data and providing a way of defining relationships between tables. 
 - SQL statements fall into two different categories: Data Definition Language (DDL) statements and Data Manipulation Language (DML) statements.
+
+
+## Image Notes
+![db_objects](images/entity_attributes.png)
